@@ -21,10 +21,14 @@ The queries can then be executed in any visualisation software. For example, bel
 
 XmR chart:
 
-![XmR Chart](SPC XmR Chart Example.png)
+<img src="SPC XmR Chart Example.png" alt="SPC XmR Chart" width="800" height="600"/>
 
 P chart:
 
-![P Chart](SPC P Chart Example.png)
 
-![P Chart](SPC P Chart Example 2.png)
+
+<img src="SPC P Chart Example.png" alt="SPC P Chart" width="800" height="600"/>
+
+
+
+<img src="SPC P Chart Example 2.png" alt="SPC P Chart 2" width="800" height="600"/>
