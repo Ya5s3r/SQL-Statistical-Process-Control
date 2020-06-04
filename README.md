@@ -19,6 +19,8 @@ Some of the changes include:
  
 The queries can then be executed in any visualisation software. For example, below are screen shots of the output in Microsoft PowerBI. You can format the chart so the outliers are flagged, as well as any trends that trigger one of the SPC rules commonly flagged up.
 
+The charts show the mean as well as the upper control limit (UCL) and lower control limit (LCL).
+
 XmR chart:
 
 <img src="SPC XmR Chart Example.png" alt="SPC XmR Chart" width="800" height="600"/>
