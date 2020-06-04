@@ -25,6 +25,6 @@ XmR chart:
 
 P chart:
 
-![XmR Chart](SPC P Chart Example.png)
+![P Chart](SPC P Chart Example.png)
 
-![XmR Chart](SPC P Chart Example 2.png)
+![P Chart](SPC P Chart Example 2.png)
