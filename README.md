@@ -1,4 +1,4 @@
-# statistical_process_control_SQL
+# Statistical Process Control in SQL
 The SQL code included provides a template to create statistical process control (SPC) charts.
 
 SPC is a common statistical methodology used to monitor and control processes. It offers a clear indication of whether variation in a process is what can be described as 'common cause' variation - not statistically significant or 'special cause' - statistically significant variation that requires further attention. It is now commonly used in healthcare.
